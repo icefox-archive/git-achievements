@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # Copyright (c) 2021 Aaron Dewes <aaron.dewes@web.de>
 # All rights reserved.
